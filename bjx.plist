@@ -1,36 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <key>items</key>
-    <array>
-        <dict>
-            <key>assets</key>
-            <array>
-                <dict>
-                    <key>kind</key>
-                    <string>software-package</string>
-                    <key>url</key>
-                    <string>http://xxx.xxx.com/xxxx.ipa</string>
-                </dict>
-            </array>
-            <key>metadata</key>
-            <dict>
-                <key>bundle-identifier</key>
-                <string>请填上你的开发者证书用户名</string>
-                <key>bundle-version</key>
-                <string>版本</string>
-                <key>kind</key>
-                <string>software</string>
-                <key>title</key>
-                <string>请填上标题</string>
-            </dict>
-        </dict>
-    </array>
+<key>items</key>
+<array>
+<dict>
+<key>assets</key>
+<array>
+<dict>
+<key>kind</key>
+<string>software-package</string>
+<key>url</key>
+<string>http://app.guazistatic.com/bi_bjx_57_1.1.1.0.ipa</string>
+</dict>
+<dict>
+<key>kind</key>
+<string>display-image</string>
+<key>needs-shine</key>
+<true/>
+<key>url</key>
+<string>
+http://app.guazistatic.com/77db49aedc27209f8e4cb050aef8b75d/gzbjx_icon.png
+</string>
+</dict>
+</array>
+<key>metadata</key>
+<dict>
+<key>title</key>
+<string>北极星</string>
+<key>bundle-version</key>
+<string>1.1.1.0</string>
+<key>kind</key>
+<string>software</string>
+<key>bundle-identifier</key>
+<string>com.guazi.GZBIPolaris</string>
+</dict>
+</dict>
+</array>
 </dict>
 </plist>
-
-作者：lovelyjune
-链接：https://www.jianshu.com/p/c47699dee334
-來源：简书
-简书著作权归作者所有，任何形式的转载都请联系作者获得授权并注明出处。
